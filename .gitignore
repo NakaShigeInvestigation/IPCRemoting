@@ -1,0 +1,10 @@
+IPCWindowsService/bin/
+IPCRemotingServerSample/obj/
+IPCRemotingServerSample/bin/
+IPCWindowsService/obj/
+IPCRemotingClientSample/obj/
+RemoteObjectAssembly/bin/
+RemoteObjectAssembly/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+RemoteObjectAssembly/obj/
+IPCRemotingClientSample/bin/
+IPCRemotingClientSample.suo
